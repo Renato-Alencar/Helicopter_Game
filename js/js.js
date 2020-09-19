@@ -191,7 +191,8 @@ function start() { // Inicio da função start()
 		// Disparo com o inimigo1
 		if (colisao3.length > 0) {
 
-			pontos=pontos+100;
+			pontos += 100;
+			velocidade += 0.3;
 			inimigo1X = parseInt($("#inimigo1").css("left"));
 			inimigo1Y = parseInt($("#inimigo1").css("top"));
 				
@@ -206,7 +207,8 @@ function start() { // Inicio da função start()
 		// Disparo com o inimigo2		
 		if (colisao4.length > 0) {
 
-			pontos=pontos+50;
+			pontos += 50;
+			velocidade += 0.3;
 			inimigo2X = parseInt($("#inimigo2").css("left"));
 			inimigo2Y = parseInt($("#inimigo2").css("top"));
 			$("#inimigo2").remove();
