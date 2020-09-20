@@ -23,7 +23,6 @@ Desenvolver de forma rápida e didática (passo a passo), um <i>game</i> 2D que 
 - Framework JQuery.
 
 ### **Resultado Final**
-![GIF do jogo do helicóptero](gifs/Helicopter_Game.gif)
-
+<img src="https://user-images.githubusercontent.com/64142982/93723458-14630300-fb75-11ea-9246-b0f2e22d3c3a.gif" alt="GIF do jogo do helicóptero" width="500px" height="250px">
 
 
